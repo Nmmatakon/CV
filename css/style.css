@@ -151,6 +151,10 @@ svg:hover {
     transform: scale(1.2);
 }
 
+#subArticle p{
+    text-align: justify;
+}
+
 @media screen and (max-width : 1024px) {
     body {
         padding: 0 5%;
