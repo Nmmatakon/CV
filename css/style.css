@@ -216,6 +216,9 @@ svg:hover {
 }
 
 @media (max-device-width: 480px) {
+      *{
+        font-size: 0.97em;
+    }
     body {
         padding: 0% 1%;
     }
